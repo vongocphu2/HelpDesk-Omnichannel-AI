@@ -56,5 +56,7 @@ coverage/
 # AI Agent IDE configuration & cache
 .agents/
 
-# Personal local guides, proposals and scripts (not committed to GitHub)
+# Personal local guides, proposals, docs and scripts (not committed to GitHub)
 huongdan/
+docs/
+database/
